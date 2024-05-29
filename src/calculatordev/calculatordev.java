@@ -34,7 +34,7 @@ public class calculatordev {
 		System.out.println("Enter Second Number : ");
 		int input1 = sc.nextInt();
 		
-		System.out.println("The Addition is : " + calculatordev.add(input, input1));
+		System.out.println("The Addition is : " + calculatord.add(input, input1));
 		System.out.println("The Substraction is : " + calculatordev.sub(input, input1));
 		System.out.println("The Multiplication is : " + calculatordev.mul(input, input1));
 		System.out.println("The Division is : " + calculatordev.div(input, input1));
